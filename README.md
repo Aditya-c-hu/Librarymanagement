@@ -336,6 +336,22 @@ Response `200`: `{ "status": "ok" }`
 └── .gitignore
 ```
 
+AI prompt 
+
+Build a complete Library Management System using Golang.
+
+Requirements:
+
+* Clean architecture (internal folders: handlers, services, models, middleware, config, database)
+* REST API using Gin
+* SQLite or PostgreSQL database
+* JWT authentication (admin/user roles)
+* CRUD for books, users, and borrow/return system
+* Proper folder structure with main.go and go.mod
+* Beginner-friendly and interview-ready code
+
+Generate full backend project structure with all necessary files.
+
 ## License
 
 MIT
