@@ -1,0 +1,8 @@
+*.db
+*.sqlite
+*.exe
+*.out
+.env
+vendor/
+.DS_Store
+library-api
