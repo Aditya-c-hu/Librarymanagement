@@ -8,12 +8,12 @@ import (
 	"github.com/go-chi/chi/v5"
 	chimw "github.com/go-chi/chi/v5/middleware"
 
-	"github.com/ravidesai/library-api/internal/config"
-	"github.com/ravidesai/library-api/internal/database"
-	"github.com/ravidesai/library-api/internal/handlers"
-	"github.com/ravidesai/library-api/internal/middleware"
-	"github.com/ravidesai/library-api/internal/models"
-	"github.com/ravidesai/library-api/internal/services"
+	"github.com/Aditya-c-hu/Librarymanagement/internal/config"
+	"github.com/Aditya-c-hu/Librarymanagement/internal/database"
+	"github.com/Aditya-c-hu/Librarymanagement/internal/handlers"
+	"github.com/Aditya-c-hu/Librarymanagement/internal/middleware"
+	"github.com/Aditya-c-hu/Librarymanagement/internal/models"
+	"github.com/Aditya-c-hu/Librarymanagement/internal/services"
 )
 
 func main() {

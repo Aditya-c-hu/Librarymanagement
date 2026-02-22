@@ -20,7 +20,7 @@ A REST API for a college library management system built with Go. Librarians man
 ### Install & Run
 
 ```bash
-git clone https://github.com/ravidesai/library-api.git
+git clone https://github.com/Aditya-c-hu/Librarymanagement.git
 cd library-api
 
 # Download dependencies

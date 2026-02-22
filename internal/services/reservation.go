@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ravidesai/library-api/internal/config"
-	"github.com/ravidesai/library-api/internal/models"
+	"github.com/Aditya-c-hu/Librarymanagement/internal/config"
+	"github.com/Aditya-c-hu/Librarymanagement/internal/models"
 )
 
 var (

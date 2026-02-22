@@ -1,4 +1,4 @@
-module github.com/ravidesai/library-api
+module github.com/Aditya-c-hu/Librarymanagement
 
 go 1.22
 

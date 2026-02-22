@@ -6,7 +6,7 @@ import (
 	"strconv"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/ravidesai/library-api/internal/models"
+	"github.com/Aditya-c-hu/Librarymanagement/internal/models"
 )
 
 func writeJSON(w http.ResponseWriter, status int, v interface{}) {

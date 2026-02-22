@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/ravidesai/library-api/internal/models"
+	"github.com/Aditya-c-hu/Librarymanagement/internal/models"
 	"golang.org/x/crypto/bcrypt"
 )
 

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/ravidesai/library-api/internal/models"
-	"github.com/ravidesai/library-api/internal/services"
+	"github.com/Aditya-c-hu/Librarymanagement/internal/models"
+	"github.com/Aditya-c-hu/Librarymanagement/internal/services"
 )
 
 type BookHandler struct {
